@@ -6,7 +6,7 @@
 		"**/obj": true,
 	},
 	"csharp.semanticHighlighting.enabled": true,
-	"dotnet.defaultSolution": "dotnet-console-games.sln",
+	"dotnet.defaultSolution": "dotnet-console-games.slnx",
 
 	//// optional color/theme settings
 	//"workbench.colorTheme": "Default Dark+",
